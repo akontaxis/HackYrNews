@@ -184,16 +184,4 @@ class Word2VecData:
             sep='\t')
             
 
-            
-        
-
-
-
-
-
-
-
-
-
-
-        
+    

@@ -12,5 +12,4 @@ HackYrNews is an app for building a custom news feed for Hacker News. Recommenda
 
 3) stability.py contains tools for comparing assessing the stability of the fitted word2vec model with respect to initial condition and number of training epochs. 
 
-
- 
+4) the app folder contains all files for the app, including the front end and some helper functions needed for sorting recommendations.  
